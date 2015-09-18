@@ -50,7 +50,7 @@
     "array-tools": "^2",
     "command-line-args": "^1",
     "common-sequence": "^1.0.2",
-    "ddata": "~0.1.18",
+    "ddata": "git+https://github.com/daserge/ddata#source-links",
     "file-set": "^0.2.6",
     "handlebars-array": "^0.2.0",
     "handlebars-comparison": "^2.0.0",
